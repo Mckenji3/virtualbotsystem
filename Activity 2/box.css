@@ -1,0 +1,88 @@
+.section1 {
+    box-sizing: border-box;
+        width: fit-content 1px;
+        height: 420px;
+        border: 2px solid #000000;
+        text-indent:  10px each-line;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        color: #16a183;
+}
+.section2 {
+    box-sizing: border-box;
+        width: fit-content 1px;
+        height: 310px;
+        border: 2px solid #000000;
+        text-indent:  10px each-line;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        color: #16a183;
+}
+.section3 {
+    box-sizing: border-box;
+        width: fit-content 1px;
+        height: 900px;
+        border: 2px solid #000000;
+        text-indent:  10px each-line;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        color: #16a183;
+}
+label, input {
+    line-height: 3;
+    font-weight: bold;
+}
+input {
+    height: 25px;
+    width: 98%;
+}
+textarea,
+.btn {
+    margin-bottom: 15px;
+    width: 98%;
+}
+h1,
+.label {
+    margin-bottom: 10px;
+}
+.submit-button {
+    background-color: #08968a;
+    color: rgb(255, 255, 255);
+    height:fit-content;
+    width: 100px;
+    border-radius: 5px;
+    padding: 1px;
+    cursor: pointer;
+}
+.submit-button2 {
+    width: 90px;
+    height: 30px;
+    color: white;
+    background-color:#16a183;
+}
+input[class=R1] {
+    width: auto;
+    margin-top: -4px;
+    vertical-align: middle;
+    height: auto;
+}
+input[class=R2] {
+    width: auto;
+    margin-top: -4px;
+    vertical-align: middle;
+    height: auto;
+    
+}
+input[class="r"] {
+    vertical-align: middle;
+    width: auto;
+    margin-top: 1px;
+    margin-left: 10px;
+    
+}
+input[id=subm] {
+    width: 92px;
+    height: 45px;
+    color: white;
+    background-color:#16a183;
+    margin-left: 10px;
+    text-align:center;
+    border-radius: 5px;
+}
