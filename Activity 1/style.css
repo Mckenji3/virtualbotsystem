@@ -1,0 +1,31 @@
+h1 {
+    color: orangered;
+}
+h2 {
+    color: blueviolet;
+}
+img {
+    height: 500px;
+    width: 800px;
+    margin-top: 20px;
+}
+p,h2,h1,img,li {
+    margin-left: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serifs;
+}
+ol,ul {
+    margin-left: 25px;
+}
+a {
+    font-family: Verdana, Geneva, Tahoma, sans-serifs;
+}
+table {
+    width: 98%;
+    height: 150px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-collapse: collapse;
+}
+tr {
+    text-align: left;
+}
